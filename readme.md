@@ -1,6 +1,3 @@
-Here’s your README, fully formatted in GitHub-flavored Markdown for a clean, polished, and professional yet playful presentation:
-
-⸻
 
 💕 UConvy – Your Webm-to-MP4 Fairybot 🎀
 
@@ -14,7 +11,7 @@ Think of it as your digital video fairy godmother. Just drop a .webm, and poof �
 
 ⸻
 
-🎀 IMPORTANT: Safety First, Girlie!!
+🎀 IMPORTANT: Safety First!!
 
 Before we dive into anything technical, here’s a super serious and sparkly PSA:
 
