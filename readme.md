@@ -181,7 +181,3 @@ alessandrx & UConvy 🌸
 ⸻
 
 ReadMe made with ChatGPT aid only because I’m terrible at explaining stuff lol 😅
-
-⸻
-
-Let me know if you want a README.md file generated or changes like badges, installable as a PyPI package, or CI setup instructions.
