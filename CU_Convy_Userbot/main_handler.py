@@ -7,7 +7,7 @@ import file_converter
 from configs import client, DOWNLOAD_DIR, placeholder_video_path
 
 #incoming=True,
-@client.on(events.NewMessage(outgoing=True))
+@client.on(events.NewMessage(incoming=True))
 async def handler(event):
     print("Caught outgoing message:", event.text)
 
