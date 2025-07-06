@@ -181,3 +181,6 @@ alessandrx & UConvy 🌸
 ⸻
 
 ReadMe made with ChatGPT aid only because I’m terrible at explaining stuff lol 😅
+
+credits:
+music of the placeholder video form https://youtu.be/7PvYu-1iEbY
