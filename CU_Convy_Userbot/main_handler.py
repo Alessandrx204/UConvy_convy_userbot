@@ -9,12 +9,12 @@ from configs import client, DOWNLOAD_DIR, placeholder_video_path
 #incoming=True,
 @client.on(events.NewMessage(incoming=True))
 async def handler(event):
-    print("Caught outgoing message:", event.text)
+    print("Caught incoming message:", event.text)
 
     if event.file and event.file.name: #yep it's needed this way idk why
         file_name = event.file.name.lower()
         if file_name.endswith('.webm'):
-            print("Caught outgoing message:", event.text)
+            print("Caught incoming webm file:", event.text)
             chat_id = event.chat_id
             user_id = event.sender_id
             waitlist.add_user(chat_id,user_id, event.id)
