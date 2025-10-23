@@ -17,7 +17,7 @@ Before we dive into anything technical, here’s a super serious and sparkly PSA
 
 ✨ PLEASE use this bot only from a dedicated Telegram account!!
 Otherwise, it might reply to every .webm in every chat – even that one group full of weirdos from 10 years ago 😱
-Telegram and group admins may see this as spammy behavior and restrict or ban your account.
+Telegram and group admins may see this as spammy behaviour and restrict or ban your account.
 
 So:
 	•	📱 Use a secondary phone number or a VOIP number
