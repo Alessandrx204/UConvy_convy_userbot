@@ -23,7 +23,7 @@ So:
 	•	📱 Use a secondary phone number or a VOIP number
 	•	❌ Don’t run this from your main account, ok babe? 💋
 
-This is a fun-learning project – not a spam bot. We do not condone bad bot behavior! 🙅‍♀️
+This is a fun-learning project – not a spam bot. We do not condone bad bot behaviour! 🙅‍♀️
 
 ⸻
 
