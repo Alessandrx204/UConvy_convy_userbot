@@ -3,7 +3,7 @@ import json
 import os
 
 WAITLIST_FILE = 'local_Uconvy_waitlist.json'
-# Lista di tuple (chat_id, user_id, message_id) per serializzazione semplice
+# list of tuples (chat_id, user_id, message_id) 
 waitlist = []
 
 def load_waitlist():
