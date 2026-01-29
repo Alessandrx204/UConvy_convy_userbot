@@ -2,8 +2,7 @@
 ## 💕 UConvy – Your Webm-to-MP4 Bot 🎀
 
 Because every .webm deserves a glow-up ✨
-
-Hi Gals! 💌 Welcome to UConvy, a Telegram userbot I made as a self-project while learning Python 🐍
+ Welcome to UConvy, a Telegram userbot I made as a self-project while learning Python 🐍
 (Yes, I’m just 3 months in – not so proud but thriving! 👩‍💻🌸)
 
 UConvy takes your .webm videos and lovingly turns them into .mp4s and resends them as previews – smoother, prettier, and more compatible with all Telegram clients across OSs.
