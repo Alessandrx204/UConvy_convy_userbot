@@ -1,5 +1,5 @@
 
-## 💕 UConvy – Your Webm-to-MP4 Fairybot 🎀
+## 💕 UConvy – Your Webm-to-MP4 Bot 🎀
 
 Because every .webm deserves a glow-up ✨
 
