@@ -135,7 +135,7 @@ It’ll log in via Telegram and then it’s live!
 
 ⸻
 
-💬 How to Use Her
+💬 How do i use Uconvy?
 	•	Send a .webm to the bot (or to a chat with the bot)
 	•	It’ll reply with a placeholder (“Uploading…”)
 	•	When done, it’ll replace it with the converted .mp4
